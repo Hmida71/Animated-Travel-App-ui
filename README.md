@@ -1,12 +1,11 @@
 <h2>Morden UI Design Of Travel App ⛺ DAY 3 🔥🔥</h2>
 
 
-
 <table>
 <thead>
   
 <tr>
-  
+
   
   
   <th align="center">Image Challenge</th>
@@ -25,8 +24,8 @@
 <tr>
   
   <td align="center">
-  <a target="_blank" rel="" href="https://user-images.githubusercontent.com/69757558/194951798-7d12ca0d-8fc9-4ca7-86bf-85e818cedf5a.png">
-  <img src="https://user-images.githubusercontent.com/69757558/194951798-7d12ca0d-8fc9-4ca7-86bf-85e818cedf5a.png" alt="Css Logo" with="200" height="400"/>
+  <a target="_blank" rel="" href="https://user-images.githubusercontent.com/69757558/195458136-9041dde8-d9e0-4701-a9b8-1f1118457f46.png">
+  <img src="https://user-images.githubusercontent.com/69757558/195458136-9041dde8-d9e0-4701-a9b8-1f1118457f46.png" alt="Css Logo" with="200" height="400"/>
 
   </a>
     
